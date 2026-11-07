@@ -1,0 +1,11 @@
+# Данные кейса не публикуем (описание структуры — в data/README.md)
+data/*
+!data/README.md
+
+# Служебные файлы
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
